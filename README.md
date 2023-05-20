@@ -11,12 +11,10 @@ git -v
 
 - [ ] untuk mengetahui apakah git sudah terinstall atau belum, jika sudah terinstall maka akan keluar tulisan seperti ini `git version 2.39.2.windows.1`
 
-- [ ] Setelah membuak terminal masing-masing silahkan ketikkan perintah `git -v`,
+- [ ] Setelah membuka terminal masing-masing silahkan ketikkan perintah `git -v`,
       untuk mengetahui apakah git sudah terinstall atau belum, jika sudah
-      terinstall maka akan keluar tulisan seperti ini
-      `git version 2.39.2.windows.1`,
-      <br>
-
+      terinstall maka akan keluar tulisan seperti ini      `git version 2.39.2.windows.1`
+     
 - [ ] Langkah selanjutnya buka terminal kalian dan pastikan sudah berada pada
       direktori `C:\xampp\htdocs`, jika belum silahkan ketikan pada terminal
       kalian
