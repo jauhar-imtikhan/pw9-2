@@ -9,7 +9,8 @@ Setelah membuka terminal masing-masing silahkan ketikkan perintah
 git -v
 ```
 
-- [ ] untuk mengetahui apakah git sudah terinstall atau belum, jika sudah terinstall maka akan keluar tulisan seperti ini `git version 2.39.2.windows.1`
+- [ ] Perintah diatas berguna untuk mengetahui apakah git sudah terinstall atau belum, jika sudah terinstall maka akan keluar tulisan seperti ini 
+      `git version 2.39.2.windows.1`
 
 - [ ] Setelah membuka terminal masing-masing silahkan ketikkan perintah `git -v`,
       untuk mengetahui apakah git sudah terinstall atau belum, jika sudah
