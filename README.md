@@ -2,6 +2,10 @@
 <h1 style="color: red; text-decoration: underline;">INSTALASI</h1>
 </center>
 
+- [ ] Setelah membuka terminal masing-masing silahkan ketikkan perintah `git -v`,
+      untuk mengetahui apakah git sudah terinstall atau belum, jika sudah
+      terinstall maka akan keluar tulisan seperti ini      `git version 2.39.2.windows.1`
+      
 - [ ] Buka terminal VSCODE kalian jika tidak punya VSCODE silahkan buka CMD atau terminal lainnya.
 Setelah membuka terminal masing-masing silahkan ketikkan perintah
 
@@ -11,10 +15,6 @@ git -v
 
 - [ ] Perintah diatas berguna untuk mengetahui apakah git sudah terinstall atau belum, jika sudah terinstall maka akan keluar tulisan seperti ini 
       `git version 2.39.2.windows.1`
-
-- [ ] Setelah membuka terminal masing-masing silahkan ketikkan perintah `git -v`,
-      untuk mengetahui apakah git sudah terinstall atau belum, jika sudah
-      terinstall maka akan keluar tulisan seperti ini      `git version 2.39.2.windows.1`
      
 - [ ] Langkah selanjutnya buka terminal kalian dan pastikan sudah berada pada
       direktori `C:\xampp\htdocs`, jika belum silahkan ketikan pada terminal
