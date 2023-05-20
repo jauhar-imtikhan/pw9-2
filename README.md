@@ -27,6 +27,7 @@ to your `app` folder. The affected files can be copied or merged from
 
 Copy `env` to `.env` and tailor for your app, specifically the baseURL
 and any database settings.
+
 After cloning this repository run command `composer install` in the terminal
 
 ## Important Change with index.php
