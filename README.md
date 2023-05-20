@@ -4,7 +4,8 @@
 
 - [ ] Setelah membuka terminal masing-masing silahkan ketikkan perintah `git -v`,
       untuk mengetahui apakah git sudah terinstall atau belum, jika sudah
-      terinstall maka akan keluar tulisan seperti ini      `git version 2.39.2.windows.1`
+      terinstall maka akan keluar tulisan seperti ini    
+      `git version 2.39.2.windows.1`
       
 - [ ] Buka terminal VSCODE kalian jika tidak punya VSCODE silahkan buka CMD atau terminal lainnya.
 Setelah membuka terminal masing-masing silahkan ketikkan perintah
