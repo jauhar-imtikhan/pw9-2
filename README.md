@@ -68,7 +68,7 @@ composer install
 
 <img src="writable/assets/img/tutorial7.png" width="100%" alt="Logo">
 
-- [ ] Terakhir silahkan nyalakan `XAMPP` kalian, jika sudah silahkan akses url dibawah
+- [ ] Terakhir silahkan nyalakan `XAMPP` kalian, jika sudah silahkan klik link dibawah
 
 <center>
 <a href="http://localhost/pw-9"><i class="fa fa-arrow-left"></i> Klik Disini <i class="fa fa-arrow-right"></i></a>
