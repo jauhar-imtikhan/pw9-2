@@ -68,7 +68,10 @@ composer install
 
 <img src="writable/assets/img/tutorial7.png" width="100%" alt="Logo">
 
-- [ ] Terakhir silahkan nyalakan `XAMPP` kalian, jika sudah silahkan klik link dibawah
+- [ ] Kemudian nyalakan `XAMPP` kalian, jika sudah silahkan sesuaikan settingan database kalian yang berada pada folder
+      `app\config\Database.php`
+
+- [ ] Setelah selesai mengatur nama database kalian, silahkan klik link di bawah
 
 <center>
      <a href="http://127.0.0.1/pw9-2">Klik Disini</a>
